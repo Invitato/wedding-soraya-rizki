@@ -55,8 +55,8 @@ export const WEDDING_DATE = '31.03.2021';
  * @constants
  * for footer sections
  */
-export const SOUND_BY = `CINTANYA AKU - Tiara Andini, Arsy Widianto (Cover by Willy Wildan)`;
-export const SOUND_URL = 'https://youtu.be/oMf-JZJLPpk';
+export const SOUND_BY = `Bahasa Kalbu - Raisa & Andi Rianto (Intimate Instrumental Cover / Karaoke)`;
+export const SOUND_URL = 'https://youtu.be/s0Yc6ilEmec';
 
 /**
  * @constant
