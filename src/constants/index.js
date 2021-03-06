@@ -44,7 +44,7 @@ export const EPOCH_END_EVENT = 1615705200;
  * @constants - wedding information
  */
 export const WEDDING_AKAD = 'Selasa, 31 Maret 2020';
-export const WEDDING_AKAD_TIME = '08.00 WIB - Selesai';
+export const WEDDING_AKAD_TIME = '08.00 WIB';
 export const WEDDING_LOCATION_AKAD = `Desa Tanggungharjo RT01/RW01, <br/>Kec./Kab. Grobogan (Rumah mempelai wanita)`;
 export const WEDDING_RESEPSI = 'Minggu, 14 Maret 2021';
 export const WEDDING_RESEPSI_TIME = '11.00 WIB - Selesai';
