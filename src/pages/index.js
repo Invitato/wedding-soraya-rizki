@@ -9,6 +9,7 @@ import WelcomeSection from '@components/WelcomeSection';
 import QuranSection from '@components/QuranSection';
 import HelloSection from '@components/HelloSection';
 import WeddingSection from '@components/WeddingSection';
+import LocationSection from '@components/LocationSection';
 import FooterSection from '@components/FooterSection';
 import FloatingMusic from '@components/FloatingMusic/Loadable';
 import PhotoSection from '@components/PhotoSection/Loadable';
@@ -35,6 +36,7 @@ function Home({ location }) {
         <QuranSection isInvitation={isInvitation} />
         <HelloSection isInvitation={isInvitation} />
         <WeddingSection isInvitation={isInvitation} />
+        <LocationSection />
         <Covid19 />
         <PhotoSection />
         <FooterSection isInvitation={isInvitation} />
