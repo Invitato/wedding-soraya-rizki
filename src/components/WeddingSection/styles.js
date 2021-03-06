@@ -1,5 +1,5 @@
 import { css } from '@emotion/core';
-import Background from './assets/wedding.jpg';
+import Background from '../PhotoSection/assets/2.jpeg';
 
 export const styWrapper = css`
   padding: var(--size-content-padding);
