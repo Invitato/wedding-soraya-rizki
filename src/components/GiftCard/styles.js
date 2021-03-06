@@ -14,20 +14,12 @@ export const styWrapper = css`
   .img {
     text-align: center;
     margin-bottom: 2em;
+    padding: 0 32px;
 
-    .img__ovo,
-    .img__linkaja {
-      display: inline-block;
-      margin: 0 10px;
-      border-radius: 16px;
-      max-width: 200px;
-      border: 2px solid var(--secondary-bg);
-
-      @media screen and (max-width: 500px) {
-        display: block;
-        margin: 16px;
-        margin: 16px auto;
-      }
+    img {
+      border-radius: 24px;
+      width: 100%;
+      max-width: 500px;
     }
   }
 `;

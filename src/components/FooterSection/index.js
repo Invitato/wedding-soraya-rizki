@@ -4,6 +4,7 @@ import { bool } from 'prop-types';
 import WithAnimation from '../WithAnimation/UseIntersect';
 import CopyRight from './CopyRight';
 import Wishes from '../WishesSection';
+import GiftCard from '../GiftCard';
 // import EmbedLive from './EmbedLive';
 import { styWrapper } from './styles';
 
@@ -11,7 +12,7 @@ function FooterSection({ isInvitation }) {
   return (
     <>
       {/* <EmbedLive /> */}
-      {/* <GiftCard /> */}
+      <GiftCard />
       <div css={styWrapper(true)}>
         <div style={{ padding: '0 16px' }}>
           <div className="row padding__content">
