@@ -14,7 +14,7 @@ export const styWrapper = css`
   .img {
     text-align: center;
     margin-bottom: 2em;
-    padding: 0 32px;
+    padding: 0 60px;
 
     img {
       border-radius: 24px;
