@@ -3,7 +3,6 @@ import { bool } from 'prop-types';
 
 import WithAnimation from '../WithAnimation/UseIntersect';
 import CopyRight from './CopyRight';
-import Wishes from '../WishesSection';
 import GiftCard from '../GiftCard';
 // import EmbedLive from './EmbedLive';
 import { styWrapper } from './styles';
@@ -32,7 +31,6 @@ function FooterSection({ isInvitation }) {
             </div>
           </div>
         </div>
-        <Wishes />
         <WithAnimation>
           <CopyRight />
         </WithAnimation>
