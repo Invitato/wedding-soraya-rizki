@@ -23,13 +23,12 @@ export const SEO_URL = 'https://invitato.net/';
 export const SEO_TITLE = `The Wedding of ${THE_BRIDE} by Invitato.net`;
 export const SEO_DESCRIPTION = `Dengan memohon Rahmat dan Ridho Illahi, teriring niat menjalankan Sunnah Rasulullah ﷺ untuk membentuk rumah tangga yang Sakinah, Mawaddah wa Rahmah, kami mohon do'a agar senantiasa diberikan kelancaran dan keberkahan. - ${THE_BRIDE}`;
 
-
 /**
  * @constants - google maps
  * for google maps configuration
  */
-export const GOOGLE_MAPS_LINK = `https://goo.gl/maps/xzvNFQ9e9trM5ShB7`;
-export const GOOGLE_MAPS_EMBED = `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.5788448128274!2d110.95726871477356!3d-7.058669994901849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMDMnMzEuMiJTIDExMMKwNTcnMzQuMSJF!5e0!3m2!1sen!2sid!4v1615036574485!5m2!1sen!2sid`;
+export const GOOGLE_MAPS_LINK = `https://goo.gl/maps/AwgcBWcP36FxZDX27`;
+export const GOOGLE_MAPS_EMBED = `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.6662090440504!2d110.95571961477359!3d-7.04845319490909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e70b123ea439ce9%3A0xc508de030e7141d3!2sToko%20Umi!5e0!3m2!1sid!2sid!4v1615537750051!5m2!1sid!2sid`;
 export const GOOGLE_MAPS_ADDRESS = 'Desa Tanggungharjo RT01/RW01, Kec./Kab. Grobogan';
 
 /**
